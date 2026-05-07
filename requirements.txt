@@ -1,0 +1,16 @@
+numpy 
+pandas 
+seaborn 
+matplotlib 
+
+
+wordcloud 
+emoji
+notebook
+nltk 
+scikit-learn
+
+
+tensorflow
+keras
+gradio
